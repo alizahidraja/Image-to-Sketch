@@ -7,3 +7,6 @@ Just choose the file and it will make a sketch of the image with the same name w
 
 
 written by: Ali Zahid Raja
+
+
+![Screenshot](pp.jpg)
