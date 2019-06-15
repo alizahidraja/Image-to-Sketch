@@ -21,14 +21,25 @@ Original (tiger.jpg):
 
 
 
-![Screenshot](image.jpg)
+![Screenshot](tiger.jpg)
 
 Converted (tiger_new.jpg):
 
 
 
-![Screenshot](image_new.jpg)
+![Screenshot](tiger_new.jpg)
 
+Original (images.jpg):
+
+
+
+![Screenshot](images.jpg)
+
+Converted (images_new.jpg):
+
+
+
+![Screenshot](images_new.jpg)
 
 
 Original (deer.jpg):
