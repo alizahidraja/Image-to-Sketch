@@ -9,74 +9,74 @@ Original (image.jpg):
 
 
 
-![Screenshot](image.jpg)
+![Screenshot](Images/image.jpg)
 
 Converted (image_new.jpg):
 
 
 
-![Screenshot](image_new.jpg)
+![Screenshot](Images/image_new.jpg)
 
 Original (tiger.jpg):
 
 
 
-![Screenshot](tiger.jpg)
+![Screenshot](Images/tiger.jpg)
 
 Converted (tiger_new.jpg):
 
 
 
-![Screenshot](tiger_new.jpg)
+![Screenshot](Images/tiger_new.jpg)
 
 Original (images.jpg):
 
 
 
-![Screenshot](images.jpg)
+![Screenshot](Images/images.jpg)
 
 Converted (images_new.jpg):
 
 
 
-![Screenshot](images_new.jpg)
+![Screenshot](Images/images_new.jpg)
 
 
 Original (deer.jpg):
 
 
 
-![Screenshot](deer.jpg)
+![Screenshot](Images/deer.jpg)
 
 Coverted (deer_new.jpg):
 
 
 
-![Screenshot](deer_new.jpg)
+![Screenshot](Images/deer_new.jpg)
 
 Original (face.jpg):
 
 
 
-![Screenshot](face.jpg)
+![Screenshot](Images/face.jpg)
 
 Converted (face_new.jpg):
 
 
 
-![Screenshot](face_new.jpg)
+![Screenshot](Images/face_new.jpg)
 
 Original (rose.jpg):
 
 
 
-![Screenshot](rose.jpg)
+![Screenshot](Images/rose.jpg)
 
 Converted (rose_new.jpg):
 
 
 
-![Screenshot](rose_new.jpg)
+![Screenshot](Images/rose_new.jpg)
 
 
 
